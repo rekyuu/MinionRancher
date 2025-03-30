@@ -1,4 +1,11 @@
-.vs/
-obj/
 bin/
-*.user
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+*.DotSettings.user
+assets.zip
+assets/manifest.json
+flake-profile*
+nohup.out
